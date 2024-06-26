@@ -6,3 +6,5 @@
 Para ejectutar el sistema, debes poner:
 
 ````mpm install react````
+
+Sistema de registro 2
